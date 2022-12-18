@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eng-omarfuhaidi
-- 👀 I’m interested in programming at all.
-- 🌱 I’m currently learning , Nodejs
-- 💞️ I’m looking to a job as an desktop applications developer or a full stack web developer
+- 👀 I’m interested in programming at all, In particular programming using Oracle Forms,Reports Builder and Oracle Apex.
+- 🌱 I’m currently building an adminstration system for exchange companies using Oracle Apex.
+- 💞️ I’m looking to a job as an oracle or oracle apex developer.
 - 📫  reach me on email: omaralmunssoe@gmail.com
 
 
