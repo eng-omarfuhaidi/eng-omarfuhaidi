@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eng-omarfuhaidi
-- 👀 I’m interested in programming at all, In particular, programming  using  Oracle Forms,Reports Builders , Oracle Apex and C# .
+- 👀 I’m interested in programming at all, In particular, programming  using  Oracle Apex,Jasper Reports,Oracle Database 19c & 23AI.
 - 🌱 I’m currently building an adminstration system for exchange companies using Oracle Apex.
-- 💞️ I’m looking to a job as an oracle forms & reports  , oracle apex developer or C#.
+- 💞️ I’m looking to a job as an oracle Apex , Oracle Developer.
 - 📫  reach me on email: omaralmunssoe@gmail.com
 
 
