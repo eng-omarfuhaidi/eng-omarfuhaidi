@@ -5,8 +5,8 @@ I currently work as an **Oracle APEX application developer**, building dynamic, 
 
 My background includes:
 
-- **Desktop development** with **C#**, **Windows Forms**, and **Oracle databases**
-- **Web development** with **PHP**, **HTML/CSS**, **Bootstrap**, and **MySQL**
+- **Desktop development** with **C#**, **Windows Forms**, and **Oracle , Sql Server databases**  
+- **Web development** with **PHP**,**JS**,**ASP.NET Web Form**, **ASP.NET MVC**, **HTML/CSS**, **Bootstrap**, and **MySQL,Monogo Databases**
 - **Deep learning experiments** in **Python** using **Google Colab** and **Kaggle**
 
 ---
